@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ktraa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+284862b8d6ea92b7d632644bc0aef1233ff32930")]
 [assembly: System.Reflection.AssemblyProductAttribute("ktraa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ktraa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
