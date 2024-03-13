@@ -27,6 +27,7 @@
                 this.Hide();
                 Form2 formDN = new Form2();
                 formDN.Show();
+                //kiet
             }
             else
             {
